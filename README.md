@@ -41,4 +41,10 @@ JSX 转换为JavaScript
       React.createElement('img', {src: 'bar.png'});
     );
     
+## 安装
+
+1. 安装Node
+2. 安装react-tools: 包含一些工具，可以在控制台执行，将jsx编译成javascript, 这里不使用jsx-transformer.js了
+    
+        npm install -g react-tools
 
